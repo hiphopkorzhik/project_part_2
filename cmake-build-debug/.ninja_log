@@ -1,0 +1,15 @@
+# ninja log v5
+6	975	7198739507030578	lib/googletest-1.14.0/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	d0a87e3efc07aaab
+11	6098	7198739558178019	lib/googletest-1.14.0/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	6a4afd20593662f
+6100	7958	7198739576879172	lib/libgtest.a	25d789bd2b2d67bc
+8020	10349	7198739600722232	run_tests.exe	79944049b89fb7ea
+7959	8020	7198739577499745	lib/libgtest_main.a	34d61c04f7c1a8f0
+510	618	7198741800281640	run_app.exe	4b048ca60b3af189
+634	745	7234122482174365	doFiles.exe	28262b19dfeb4a7b
+3	633	7234122481084128	CMakeFiles/doFiles.dir/files/doFiles.cpp.obj	d982ca0a3584234f
+3	623	7234123507845448	CMakeFiles/git_project_part_2.dir/main.cpp.obj	7cfe8b3702849104
+624	736	7234123508945682	git_project_part_2.exe	13b2ace5172616d7
+3	646	7234252196537011	CMakeFiles/doFiles.dir/files/doFiles.cpp.obj	864703c9ef6b21f5
+647	759	7234252197643815	doFiles.exe	28262b19dfeb4a7b
+3	623	7234252301804877	CMakeFiles/git_project_part_2.dir/main.cpp.obj	1ca651c884cb04ba
+624	733	7234252302875704	git_project_part_2.exe	13b2ace5172616d7
