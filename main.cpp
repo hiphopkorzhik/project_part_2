@@ -1,12 +1,10 @@
 #include <iostream>
 #include <fstream>
-#include <cmath>
+#include "internal/methods.h"
 #include <omp.h>
 #include<string>
 
-double solve(int i, std::string line){
-    return log(std::stod(line)/i);
-}
+
 
 int main() {
     int j=1;
